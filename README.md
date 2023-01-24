@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/90509456/212739544-6950f52c-f6cd-4b4c-b825-294694a4d5a6.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhi-dajava&label=Profile%20views&color=0e75b6&style=flat" alt="subhi-dajava" /> </p>
 
-- 🔭 I’m currently working on [JavaDA_PROJECT7_RESTAPI](https://github.com/Subhi-DaJava/JavaDA_PROJECT7_RESTAPI)
+- 🔭 I’m currently working on [JavaPathENProject8](https://github.com/Subhi-DaJava/JavaPathENProject8/tree/develop/TourGuide)
 
 - 🌱 I’m currently learning **Spring Boot, Spring Security, Angular...**
 
