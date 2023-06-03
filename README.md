@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [MediscreenP9](https://github.com/Subhi-DaJava/Mediscreen-OC-P9.git)
 
-- 🌱 I’m currently learning **Spring Boot, Spring Security, Angular...**
+- 🌱 I’m currently learning **Spring Boot, Spring Security, Gitlab, Docker, Angular...**
 
 - 👨‍💻 All of my projects are available at [https://subhi-dajava.github.io/](https://subhi-dajava.github.io/)
 
