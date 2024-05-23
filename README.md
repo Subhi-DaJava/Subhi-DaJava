@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/90509456/212739544-6950f52c-f6cd-4b4c-b825-294694a4d5a6.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhi-dajava&label=Profile%20views&color=0e75b6&style=flat" alt="subhi-dajava" /> </p>
 
-- 🔭 I’m currently working on [Developpez-une-application-full-stack-complete](https://github.com/Subhi-DaJava/Developpez-une-application-full-stack-complete)
+- 🔭 I’m currently working on [Manage A Collaborative Project By Integrating a CI/CD approach With GitHub Actions](https://github.com/Subhi-DaJava/Gerez-un-projet-collaboratif-en-int-grant-une-demarche-CI-CD)
 
 - 🌱 I’m currently learning **Spring Boot, Spring Security, Gitlab, Docker, Angular...**
 
