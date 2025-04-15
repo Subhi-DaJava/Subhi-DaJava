@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Spring Boot, Spring Security, Gitlab, Docker, Angular...**
 
-- 👨‍💻 All of my projects are available at [https://subhi-dajava.github.io/](https://subhi-dajava.github.io/)
+- 👨‍💻 All of my projects are available at [https://subhi-dajava.github.io/]https://subhi-blog.web.app/)
 
 - 💬 Ask me about **Java core, spring boot, git**
 
